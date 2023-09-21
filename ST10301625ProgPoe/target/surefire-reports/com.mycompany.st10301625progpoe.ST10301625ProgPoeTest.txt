@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.st10301625progpoe.ST10301625ProgPoeTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.258 s <<< FAILURE! - in com.mycompany.st10301625progpoe.ST10301625ProgPoeTest
+testCaptureNewStudent  Time elapsed: 4.238 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at com.mycompany.st10301625progpoe.ST10301625ProgPoeTest.testCaptureNewStudent(ST10301625ProgPoeTest.java:49)
+
